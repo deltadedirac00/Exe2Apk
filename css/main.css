@@ -2808,8 +2808,12 @@ Chain Background Effect
 
 /* Estilos responsivos para dispositivos móviles */
 @media only screen and (max-width: 767px) {
+  #dharma {
+    /* max-width: 100%; */
+    width: 100%;
+  }
+
   #dharma .container {
-    max-width: 100%;
     padding: 10px;
     padding-left: 20px;
     padding-right: 20px;
