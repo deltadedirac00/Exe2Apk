@@ -2911,8 +2911,8 @@ Chain Background Effect
   }
 }
 
-@media (max-width: 350px) {
+@media (max-width: 400px) {
   .alienbtn {
-    font-size: 15px;
+    font-size: 14px;
   }
 }
