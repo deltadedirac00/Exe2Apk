@@ -2910,3 +2910,9 @@ Chain Background Effect
     width: 100%;
   }
 }
+
+@media (max-width: 350px) {
+  .alienbtn {
+    font-size: 15px;
+  }
+}
